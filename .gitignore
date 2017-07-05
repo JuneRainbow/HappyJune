@@ -20,3 +20,26 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+build/generated/src/org/apache/jsp/clock_jsp.class.smap
+build/generated/src/org/apache/jsp/clock_jsp.java
+build/generated/src/org/apache/jsp/guestBookLogin_jsp.class.smap
+build/generated/src/org/apache/jsp/guestBookLogin_jsp.java
+build/generated/src/org/apache/jsp/login_jsp.class.smap
+build/generated/src/org/apache/jsp/login_jsp.java
+build/generated/src/org/apache/jsp/product_jsp.class.smap
+build/generated/src/org/apache/jsp/product_jsp.java
+build/generated/src/org/apache/jsp/register_jsp.class.smap
+build/generated/src/org/apache/jsp/register_jsp.java
+build/web/address.jsp
+build/web/cart.jsp
+build/web/detail.jsp
+build/web/image/001.jpg
+build/web/image/002.jpg
+build/web/image/003.jpg
+build/web/login.jsp
+build/web/META-INF/context.xml
+build/web/META-INF/MANIFEST.MF
+build/web/product.jsp
+build/web/register.jsp
+build/web/WEB-INF/classes/.netbeans_automatic_build
+build/web/WEB-INF/classes/.netbeans_update_resources
